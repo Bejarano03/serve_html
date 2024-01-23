@@ -1,0 +1,19 @@
+{
+  "name": "building-a-simple-web-server-in-node",
+  "version": "1.0.0",
+  "description": "program that will serve up html domcuments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bejarano03/serve_html.git"
+  },
+  "author": "Marco Bejarano Oseguera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bejarano03/serve_html/issues"
+  },
+  "homepage": "https://github.com/Bejarano03/serve_html#readme"
+}
